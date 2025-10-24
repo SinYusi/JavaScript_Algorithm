@@ -11,7 +11,7 @@ const rl = readline.createInterface({
 });
 
 // solution 함수를 import (파일명에 맞게 수정)
-const { solution } = require('./solution');
+const { solution } = require('./level_2/70129/solution');
 
 async function main() {
   try {
